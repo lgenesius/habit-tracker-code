@@ -1,3 +1,3 @@
-# Habit Tracker :: Template UAS PSD
+# Habit Tracker : HTTP Endpoint
 
-Template endpoint untuk pengerjaan UAS dapat dibuka di dalam folder [Abc.HabitTracker.Api/Controllers](Abc.HabitTracker.Api/Controllers)
+HTTP Endpoint can be open in the folder [Abc.HabitTracker.Api/Controllers](Abc.HabitTracker.Api/Controllers)
