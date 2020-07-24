@@ -29,10 +29,10 @@ There is 7 HTTP Endpoint :<br>
 <p align="center"><img src="habit tracker pict postman.png"></p><br>
 
 ## Technologies
-▸ C#
-▸ Asp.Net
-▸ PostgreSQL
-▸ Postman
-▸ Visual Studio Code
+▸ C#<br>
+▸ Asp.Net<br>
+▸ PostgreSQL<br>
+▸ Postman<br>
+▸ Visual Studio Code<br>
 
 
